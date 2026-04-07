@@ -1,3 +1,7 @@
 {
-  "framework": "nextjs"
+  "framework": "nextjs",
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "https://otkmnhlirjmrhfevflhm.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im90a21uaGxpcmptcmhmZXZmbGhtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzUwNzc3MjQsImV4cCI6MjA5MDY1MzcyNH0.1e6ybTeoanGBpHbJuImg-O_gyrn6cG0pKKgSfL1jtLc"
+  }
 }
